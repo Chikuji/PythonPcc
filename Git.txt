@@ -1,0 +1,15 @@
+Escolher pasta, clicar com o direito e apertar git bash here
+
+git init > Enter
+
+git clone https://github.com/Chikuji/PythonPcc.git > Enter
+
+cd PythonPcc  > Enter , entra na pasta do Git
+
+git add . > Enter, add tudo que está dentro da pasta
+
+git status > Enter, verifica o status do que acontecendo
+
+git commit -m "Aula de python dia 13" > Enter
+
+
